@@ -1,0 +1,7 @@
+product_id,product_name,category,cost_price,selling_price
+P001,Resistance Band,Fitness,6.00,14.99
+P002,Protein Shaker,Fitness,4.50,12.99
+P003,Yoga Mat,Fitness,15.00,34.99
+P004,Running Belt,Accessories,8.00,19.99
+P005,Water Bottle,Accessories,5.00,14.99
+P006,Foam Roller,Recovery,10.00,24.99

@@ -1,0 +1,6 @@
+customer_id,customer_name,customer_type,signup_date,city
+C001,Anna de Vries,Individual,2025-11-12,The Hague
+C002,Mark Jansen,Individual,2025-12-01,Amsterdam
+C003,Fitness Hub,Business,2025-10-20,Rotterdam
+C004,Sara Bakker,Individual,2026-01-05,Utrecht
+C005,Peak Performance Gym,Business,2025-09-15,The Hague
